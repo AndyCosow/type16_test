@@ -1,0 +1,40 @@
+.box {
+  background-color: #E4A5FF;
+  height: 100px;
+  width: 100px;
+}
+
+.toolbar {
+  color: white;
+  background-color: #E4A5FF;
+}
+
+.cont img {
+  margin: 20px;
+  height: 300px;
+  width: 200px;
+}
+.cont a {
+  text-decoration: none;
+  color: red;
+}
+
+.cont {
+  height: 300px;
+  width: 400px;
+  border: 3px solid black;
+  padding: 20px;
+  background-color: #00DFA2;
+}
+
+.myCard {
+  background-color: #E4A5FF;
+  height: 300px;
+  width: 400px;
+  border: 3px solid black;
+  padding: 20px;
+  margin: 100px;
+  border-radius: 20px;
+}
+
+/*# sourceMappingURL=output.css.map */

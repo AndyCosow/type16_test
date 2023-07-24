@@ -1,0 +1,24 @@
+.grow1 {
+    flex:1
+}
+
+.grow3 {
+    flex: 3
+}
+
+.box {
+    height: 400px;
+    width: 800px;
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    grid-template-rows: repeat(4, 1fr);
+    gap: 10px
+}
+
+.box > div {
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+}
