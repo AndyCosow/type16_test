@@ -1,5 +1,7 @@
 const box = document.querySelector(".box")
 
+console.log("labas")
+
 const data = [
     "#C0392B",
     "#E74C3C",
