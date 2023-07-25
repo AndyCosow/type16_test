@@ -21,6 +21,13 @@ const data = [
     "#2B2730"
 ]
 
+
+function some() {
+    console.log("adasd")
+    /// nauja funkcija
+
+}
+
 let selected = []
 let selectedDivs = []
 let defence = false
